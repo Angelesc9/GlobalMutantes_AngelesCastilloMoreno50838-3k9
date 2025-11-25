@@ -25,7 +25,7 @@ Este proyecto implementa un servicio backend en Java que permite la detección d
 
 ## Funcionalidades
 
-**La ruta del dominio para probar el proyecto con postman es : https://desarrollo-de-software-mutantes.onrender.com**
+**La ruta del dominio para probar el proyecto con postman es : https://globalmutantes-zzhk.onrender.com
 1. **POST /dna**: Recibe una secuencia de ADN en formato JSON, la procesa y determina si pertenece a un humano o a un mutante.
    - Request Body: Un objeto JSON con una lista de cadenas que representan las secuencias de ADN.
    - Response: Un JSON indicando si la secuencia es mutante (`true`) o humano (`false`).
