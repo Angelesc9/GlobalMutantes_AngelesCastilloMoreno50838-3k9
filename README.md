@@ -1,4 +1,4 @@
-# Parcial Backend - Sistema de Detección de ADN Mutante 
+# Global- Sistema de Detección de ADN Mutante 
 
 Este proyecto implementa un servicio backend en Java que permite la detección de ADN mutante a partir de secuencias genéticas proporcionadas en formato de cadenas de ADN. El sistema valida si una secuencia de ADN pertenece a un humano o a un mutante, basándose en ciertos patrones genéticos específicos. 
 
